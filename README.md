@@ -1,27 +1,34 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="animated gif" width="500"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Data+Scientist+%7C+Developer+%7C+Innovator">
-</p>
-
+<!-- Welcome banner with custom background -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x150/2E8B57/FFFFFF?text=Welcome+to+Ravindu+Gajasinghe's+Profile!" alt="banner">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=1AA3FF&size=25&lines=Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Always+Learning!" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="animated gif" width="500"/>
+</p>
+
+
 <h1 align="center" style="color:#3498db;">Hi 👋, I'm Ravindu Gajasinghe</h1>
 <h3 align="center" style="color:#2ecc71;">A passionate Data Scientist from Sri Lanka 🚀</h3>
 
+<!-- Profile views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindugajasinghe&label=Profile%20views&color=ff69b4&style=flat" alt="ravindugajasinghe" />
 </p>
 
-- 🔭 Currently an **undergraduate at Kotelawala Defense University**  
-- 🌱 Learning and exploring **Data Science, AI, and Business Analytics**  
-- 👯 Seeking collaboration opportunities in **internship programs**  
-- 💼 Actively looking for **industry exposure** in data-driven fields  
-- 📫 Reach me at **ravindupramod6@gmail.com**
+<!-- Profile details with icons -->
+<ul>
+  <li>🔭 Currently an <strong>undergraduate at Kotelawala Defense University</strong></li>
+  <li>🌱 Learning and exploring <strong>Data Science, AI, and Business Analytics</strong></li>
+  <li>👯 Seeking collaboration opportunities in <strong>internship programs</strong></li>
+  <li>💼 Actively looking for <strong>industry exposure</strong> in data-driven fields</li>
+  <li>📫 Reach me at <strong>ravindupramod6@gmail.com</strong></li>
+</ul>
 
 <h3 align="left" style="color:#e74c3c;">Connect with me:</h3>
 <p align="left">
@@ -34,6 +41,8 @@
 </p>
 
 <h3 align="left" style="color:#f39c12;">Languages and Tools:</h3>
+
+<!-- Skill icons with fade-in animation -->
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -68,9 +77,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
@@ -81,3 +87,18 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Animated quotes section -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes">
+</p>
+
+<!-- GitHub activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravindu-gajasinghe&bg_color=1a1b27&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZmJmMXppNXNlYjdqNG12Zm95bnY1aWoyMWp2aHNtdWVuazR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.webp" alt="Animated GIF" width="300">
+</p>
+
