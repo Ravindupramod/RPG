@@ -1,4 +1,3 @@
-
 <!-- Welcome banner with custom background -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x150/2E8B57/FFFFFF?text=Welcome+to+Ravindu+Gajasinghe's+Profile!" alt="banner">
@@ -11,7 +10,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="animated gif" width="500"/>
 </p>
-
 
 <h1 align="center" style="color:#3498db;">Hi 👋, I'm Ravindu Gajasinghe</h1>
 <h3 align="center" style="color:#2ecc71;">A passionate Data Scientist from Sri Lanka 🚀</h3>
@@ -88,17 +86,45 @@
   </a>
 </p>
 
-<!-- Animated quotes section -->
+<!-- Game Hub Section -->
+<h3 align="center" style="color:#f39c12;">🎮 Explore My Games:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes">
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/snake.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/snake.png" alt="Snake" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Tic-Tac-Toe.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/tic-tac-toe.png" alt="Tic Tac Toe" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Space%20Invaders.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/space-invaders.png" alt="Space Invaders" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Rock%2C%20Paper%2C%20Scissors%20(Console-based).py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/rock-paper-scissors.png" alt="Rock, Paper, Scissors" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Pong.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/pong.png" alt="Pong" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Number%20Guessing%20Game.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/number-guessing.png" alt="Number Guessing Game" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Flappy%20Bird%20Clone.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/flappy-bird.png" alt="Flappy Bird Clone" style="margin: 5px;" />
+  </a> 
+
+  <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Dice%20Rolling%20Game.py" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/dice.png" alt="Dice Rolling Game" style="margin: 5px;" />
+  </a>
+  
 </p>
 
-<!-- GitHub activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravindu-gajasinghe&bg_color=1a1b27&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZmJmMXppNXNlYjdqNG12Zm95bnY1aWoyMWp2aHNtdWVuazR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.webp" alt="Animated GIF" width="300">
 </p>
-
