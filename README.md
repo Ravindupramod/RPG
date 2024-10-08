@@ -1,6 +1,6 @@
-<!-- Welcome banner with custom background -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x150/2E8B57/FFFFFF?text=Welcome+to+Ravindu+Gajasinghe's+Profile!" alt="banner">
+<!-- Welcome banner with black background -->
+<p align="center" style="background-color: black; padding: 20px;">
+  <img src="https://via.placeholder.com/1000x150/000000/FFFFFF?text=Welcome+to+Ravindu+Gajasinghe's+Profile!" alt="banner">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=ravindugajasinghe&label=Profile%20views&color=ff69b4&style=flat" alt="ravindugajasinghe" />
 </p>
 
-<!-- Profile details with icons -->
+<!-- Profile details with icons and emojis -->
 <ul>
   <li>🔭 Currently an <strong>undergraduate at Kotelawala Defense University</strong></li>
   <li>🌱 Learning and exploring <strong>Data Science, AI, and Business Analytics</strong></li>
@@ -28,7 +28,7 @@
   <li>📫 Reach me at <strong>ravindupramod6@gmail.com</strong></li>
 </ul>
 
-<h3 align="left" style="color:#e74c3c;">Connect with me:</h3>
+<h3 align="left" style="color:#e74c3c;">Connect with me 🌐:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ravindu-gajasinghe-ba5452237/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -38,9 +38,8 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#f39c12;">Languages and Tools:</h3>
+<h3 align="left" style="color:#f39c12;">Languages and Tools 🛠️:</h3>
 
-<!-- Skill icons with fade-in animation -->
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -86,7 +85,6 @@
   </a>
 </p>
 
-<!-- Game Hub Section -->
 <h3 align="center" style="color:#f39c12;">🎮 Explore My Games:</h3>
 <p align="center">
 
@@ -111,7 +109,7 @@
   </a> 
 
   <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Number%20Guessing%20Game.py" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/number-guessing.png" alt="Number Guessing Game" style="margin: 5px;" />
+    <img src="https://img.icons8.com/color/50/000000/guess-the-number.png" alt="Number Guessing Game" style="margin: 5px;" />
   </a> 
 
   <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Flappy%20Bird%20Clone.py" target="_blank">
@@ -120,11 +118,19 @@
 
   <a href="https://github.com/Ravindupramod/GameHub-PythonEdition/blob/main/Dice%20Rolling%20Game.py" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/dice.png" alt="Dice Rolling Game" style="margin: 5px;" />
-  </a>
-  
+  </a> 
+
 </p>
 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZmJmMXppNXNlYjdqNG12Zm95bnY1aWoyMWp2aHNtdWVuazR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.webp" alt="Animated GIF" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindugajasinghe&" alt="ravindugajasinghe" />
 </p>
+<h3 align="center" style="color:#f39c12;">😊 Face Beauty Rating Project:</h3>
+<p align="center">
+  <a href="https://github.com/Ravindupramod/Face_beauty_rating" target="_blank">
+    <img src="https://img.icons8.com/emoji/48/000000/smiling-face.png" alt="Face Beauty Rating" style="margin: 5px;" />
+    Face Beauty Rating Project
+  </a>
+</p>
+
