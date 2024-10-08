@@ -123,9 +123,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindugajasinghe&" alt="ravindugajasinghe" />
-</p>
 <h3 align="center" style="color:#f39c12;">😊 Face Beauty Rating Project:</h3>
 <p align="center">
   <a href="https://github.com/Ravindupramod/Face_beauty_rating" target="_blank">
