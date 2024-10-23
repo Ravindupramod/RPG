@@ -1,7 +1,4 @@
-<!-- Welcome banner with black background -->
-<p align="center" style="background-color: black; padding: 20px;">
-  <img src="https://via.placeholder.com/1000x150/000000/FFFFFF?text=Welcome+to+Ravindu+Gajasinghe's+Profile!" alt="banner">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=1AA3FF&size=25&lines=Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Always+Learning!" />
